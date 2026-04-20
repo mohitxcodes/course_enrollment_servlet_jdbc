@@ -1,0 +1,3 @@
+# Ignore database property files with sensitive credentials
+db.properties
+WEB-INF/classes/db.properties
